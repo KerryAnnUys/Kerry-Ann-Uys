@@ -1,6 +1,3 @@
-# Kerry-Ann-Uys
-Config file for my GitHub profile.
-
 ## About This Repository
 This GitHub repository serves as a professional portfolio, highlighting my work across various projects. Each project demonstrates my skills, growth, and expertise in software development and related technical explorations.
 
